@@ -11,6 +11,10 @@ export default function Home() {
     first: "",
     last: "",
     user: "",
+    email: "",
+    phone: "",
+    password: "",
+    passwords: "",
   });
   function Continue() {
     setStep("alhm");
